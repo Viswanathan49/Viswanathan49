@@ -51,7 +51,7 @@
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/your-id](www.linkedin.com/in/viswanathan-sivakumar)  
+- LinkedIn: [www.linkedin.com/in/viswanathan-sivakumar] 
 - Email: `viswanathansk49@gmail.com`  
 
 ---
